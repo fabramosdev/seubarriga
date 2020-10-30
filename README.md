@@ -6,7 +6,7 @@
   <!-- <a href="https://seubarriga.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Seu Barriga - Gerenciador FInanceiro</h1>
+<h1 align="center">Seu Barriga - Gerenciador Financeiro</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/fabramosdev/seubarriga?color=56BEB8">
